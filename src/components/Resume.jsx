@@ -30,8 +30,6 @@ const Resume = () => {
     getExperiences();
   }, []);
 
-  console.log(educations);
-  console.log(experiences);
   return (
     <section className="pt-5 bg-dark text-white" id="resume">
       <h2 className="text-center text-white py-md-5 py-4">
