@@ -1,0 +1,27 @@
+.aboutText1 {
+  color: #ffffff66;
+  font-size: 18px;
+}
+
+.aboutText2 {
+  color: #ffffff66;
+  font-size: 14px;
+}
+
+.hiremebtn {
+  border-radius: 100px;
+  border-color: #bac964;
+  background-color: #bac964;
+  letter-spacing: 2px;
+}
+.hiremebtn:hover,
+.hiremebtn:active,
+.hiremebtn:focus {
+  border-color: #b2c251 !important;
+  background: #b2c251 !important;
+}
+
+.downloadbtn {
+  border-radius: 100px;
+  letter-spacing: 2px;
+}

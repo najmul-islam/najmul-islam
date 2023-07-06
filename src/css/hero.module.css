@@ -1,0 +1,22 @@
+.hero {
+  background-image: url("https://firebasestorage.googleapis.com/v0/b/najmulislam-88fab.appspot.com/o/hero%2Fhero.jpg?alt=media&token=25c9f2df-7ba3-4d98-afb1-eb7fc7d32044");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+}
+.textbox {
+  z-index: 2;
+}
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 1;
+  z-index: 1;
+  background-color: rgba(0, 0, 0, 0.712);
+}

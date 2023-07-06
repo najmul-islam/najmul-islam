@@ -1,0 +1,14 @@
+.card {
+  padding: 25px;
+  background-color: #333333;
+  border-radius: 10px;
+  box-shadow: 5px 10px #212529;
+}
+
+.card h5 {
+  color: #bac964;
+}
+
+.card p {
+  color: #ffffff66;
+}
