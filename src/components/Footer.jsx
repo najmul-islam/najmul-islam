@@ -36,7 +36,7 @@ const Footer = () => {
             <FaTwitter />
           </span>
         </a>
-        <a href="https://www.instagram.com/najmulislam571/" target="_blank">
+        <a href="https://www.instagram.com/najmul_519/" target="_blank">
           <span>
             <FaInstagram />
           </span>
