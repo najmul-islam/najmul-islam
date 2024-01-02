@@ -6,6 +6,7 @@ import {
   FaTwitter,
   FaInstagram,
 } from "react-icons/fa";
+import { FaXTwitter } from "react-icons/fa6";
 import style from "@/css/footer.module.css";
 
 const Footer = () => {
@@ -33,7 +34,7 @@ const Footer = () => {
         </a>
         <a href="https://twitter.com/najmulislam519" target="_blank">
           <span>
-            <FaTwitter />
+            <FaXTwitter />
           </span>
         </a>
         <a href="https://www.instagram.com/najmul_519/" target="_blank">
