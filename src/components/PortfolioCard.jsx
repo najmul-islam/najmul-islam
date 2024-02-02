@@ -3,7 +3,7 @@ import { Col, Image } from "react-bootstrap";
 const PortfolioCard = ({ name, link, imgurl }) => {
   return (
     <Col md={4} sm={6} className="mx-auto d-block mb-5 text-center text-white">
-      <Image src={imgurl} fluid className="mb-2" />
+      <Image src={imgurl} fluid className="mb-2 rounded" />
       <h5 className="fw-normal">{name}</h5>
       <a
         href={link}
