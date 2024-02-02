@@ -14,6 +14,7 @@ const Header = () => {
             id={`offcanvasNavbar-expand-sm`}
             aria-labelledby={`offcanvasNavbarLabel-expand-sm`}
             placement="end"
+            className="w-50"
           >
             <Offcanvas.Header closeButton className="border-bottom">
               <Offcanvas.Title id={`offcanvasNavbarLabel-expand-sm`}>
