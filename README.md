@@ -1,5 +1,4 @@
 👋 Hi, I'm [Najmul Islam](https://github.com/najmul-islam)
-d
 
 👀 I'm a passionate front-end developer with a focus on React.js. I enjoy crafting beautiful and user-friendly web interfaces.
 
