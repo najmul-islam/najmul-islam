@@ -80,7 +80,9 @@ As a frontend developer specializing in React and Next.js, I excel in crafting e
 If you have any specific projects or opportunities where my skills can be of value, feel free to reach out. I am passionate about frontend development and excited to contribute to meaningful projects in the industry.
 
 ![Najmul Islam's Stats](https://github-readme-stats.vercel.app/api?username=najmul-islam&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+
 ![Najmul Islam's Streak](https://github-readme-streak-stats.herokuapp.com/?user=najmul-islam&theme=darcula&hide_border=true)
+
 ![Najmul Islam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=najmul-islam&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
 ### Where to find me
