@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "React.js Application Development",
+    "description": "Building interactive and dynamic web applications using the React.js library. This includes creating reusable components, managing state and props, handling events, and implementing data flow.",
+    "icon": ""
+  },
+  {
+    "id": 2,
+    "title": "Next.js Application Development",
+    "description": "Utilizing the Next.js framework to build server-side rendered (SSR) and statically generated (SSG) React applications. Next.js offers benefits such as improved performance, SEO-friendliness, and seamless server-side rendering.",
+    "icon": ""
+  },
+  {
+    "id": 3,
+    "title": "Redux Implementation.",
+    "description": "Incorporating state management libraries like Redux to handle complex application state and ensure efficient data flow within the React.js and Next.js applications.",
+    "icon": ""
+  },
+  {
+    "id": 4,
+    "title": "Performance Optimization",
+    "description": "Optimizing the performance of React.js and Next.js applications by implementing best practices, code optimization, and leveraging caching techniques to improve page load times and overall user experience.",
+    "icon": ""
+  },
+  {
+    "id": 5,
+    "title": "Deployment and Hosting",
+    "description": "Assisting with the deployment and hosting of React.js and Next.js applications, ensuring they are accessible to users worldwide.",
+    "icon": ""
+  },
+  {
+    "id": 6,
+    "title": "Ongoing Maintenance and Support.",
+    "description": "Providing ongoing maintenance, updates, and technical support to keep React.js and Next.js applications secure, up-to-date, and functioning smoothly.",
+    "icon": ""
+  }
+]

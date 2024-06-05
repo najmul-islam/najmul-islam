@@ -1,7 +1,8 @@
-import "./globals.css";
+import { cn } from "@/lib/utils";
 import { Inter } from "next/font/google";
+import "./globals.css";
 
-const inter = Inter({ subsets: ["latin"] });
+const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 
 export const metadata = {
   title: "Najmul islam",
@@ -11,7 +12,9 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className={`${inter.className} bg-dark`}>{children}</body>
+      <body className={cn("font-sans antialiased", inter.variable)}>
+        {children}
+      </body>
     </html>
   );
 }
