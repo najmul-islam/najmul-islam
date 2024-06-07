@@ -1,15 +1,15 @@
-import Header from "@/components/Header";
-import Hero from "@/components/Hero";
-import Portfolio from "@/components/Portfolio";
-import Resume from "@/components/Resume";
-import About from "@/components/About";
-import Service from "@/components/Service";
-import Contact from "@/components/Contact";
-import Footer from "@/components/Footer";
+import About from "@/components/about/About";
+import Contact from "@/components/contact/Contact";
+import Footer from "@/components/footer/Footer";
+import Header from "@/components/header/Header";
+import Hero from "@/components/header/Hero";
+import Portfolio from "@/components/portfolio/Portfolio";
+import Resume from "@/components/resume/Resume";
+import Service from "@/components/service/Service";
 
 const HomePage = () => {
   return (
-    <>
+    <div className="bg-[#212529]">
       <Header />
       <Hero />
       <Portfolio />
@@ -18,7 +18,7 @@ const HomePage = () => {
       <Service />
       <Contact />
       <Footer />
-    </>
+    </div>
   );
 };
 export default HomePage;

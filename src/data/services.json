@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Static Website Development with HTML, CSS, JavaScript",
+    "description": "Developing static websites with HTML, CSS, JavaScript, and jQuery. Ensuring cross-browser compatibility and mobile responsiveness for a seamless user experience.",
+    "icon": "static-website-development-html-css-javascript.png"
+  },
+  {
+    "id": 2,
+    "title": "Dynamic Web Applications with React, Redux, and Next.js",
+    "description": "Transforming your vision into reality with React's component-based architecture, Redux's predictable state management, and Next.js's server-side rendering. Crafting interactive and seamless web experiences for your audience.",
+    "icon": "dynamic-web-applications-react-redux-nextjs.png"
+  },
+  {
+    "id": 3,
+    "title": "WordPress Website Development and Customization",
+    "description": "Maximizing the potential of WordPress with expert customization using Elementor, Divi, and ADF. Enhancing user experience and conversion rates with WooCommerce integration. Partner with us to transform your WordPress site into a powerful online platform.",
+    "icon": "wordpress-website-development-customization.png"
+  },
+  {
+    "id": 4,
+    "title": "Custom WordPress Theme and Plugin Development",
+    "description": "Elevate your WordPress website with custom-designed themes and plugins that enhance functionality and user experience. Our expert developers ensure seamless integration and optimal performance for your unique requirements.",
+    "icon": "custom-wordpress-theme-plugin-development.png"
+  },
+  {
+    "id": 5,
+    "title": "Node.js API Development Services",
+    "description": "Build powerful APIs with Node.js and Express.js seamlessly integrated with MongoDB, MySQL, or PostgreSQL databases. Our experienced developers deliver scalable and efficient solutions tailored to your specific business needs.",
+    "icon": "nodejs-api-development-services.png"
+  },
+  {
+    "id": 6,
+    "title": "PHP Laravel and Blade Application Development Services",
+    "description": "Develop robust web applications with PHP Laravel and Blade, leveraging their powerful features for rapid development and elegant templating. Our team delivers custom solutions that prioritize performance, security, and user experience.",
+    "icon": "php-laravel-blade-application-development-services.png"
+  }
+]
