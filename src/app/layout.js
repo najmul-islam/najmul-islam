@@ -5,16 +5,34 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 
 export const metadata = {
-  title: "Najmul islam",
-  description: "Frontend web devloper",
+  title: "Najmul Islam",
+  description: "Your Partner in Modern Web Development",
+  keywords: [
+    "reactjs",
+    "nextjs",
+    "nodejs",
+    "mongodb",
+    "wordpress",
+    "php",
+    "javascript",
+    "laravel",
+    "wordpress theme",
+    "wordpress plugin",
+  ],
+  authors: [
+    {
+      name: "Najmul Islam",
+    },
+  ],
 };
 
-export default function RootLayout({ children }) {
+const RootLayout = ({ children }) => {
   return (
-    <html lang="en">
+    <html lang="en" className="!scroll-smooth">
       <body className={cn("font-sans antialiased", inter.variable)} id="home">
         {children}
       </body>
     </html>
   );
-}
+};
+export default RootLayout;
