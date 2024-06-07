@@ -1,4 +1,5 @@
 import { cn } from "@/lib/utils";
+import { Analytics } from "@vercel/analytics/react";
 import { Inter } from "next/font/google";
 import "./globals.css";
 
@@ -31,6 +32,7 @@ const RootLayout = ({ children }) => {
     <html lang="en" className="!scroll-smooth">
       <body className={cn("font-sans antialiased", inter.variable)} id="home">
         {children}
+        <Analytics />
       </body>
     </html>
   );
