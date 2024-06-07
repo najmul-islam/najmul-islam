@@ -1,38 +1,38 @@
 [
   {
     "id": 1,
-    "title": "React.js Application Development",
-    "description": "Building interactive and dynamic web applications using the React.js library. This includes creating reusable components, managing state and props, handling events, and implementing data flow.",
-    "icon": ""
+    "title": "Static Website Development with HTML, CSS, JavaScript",
+    "description": "Developing static websites with HTML, CSS, JavaScript, and jQuery. Ensuring cross-browser compatibility and mobile responsiveness for a seamless user experience.",
+    "icon": "static-website-development-html-css-javascript.png"
   },
   {
     "id": 2,
-    "title": "Next.js Application Development",
-    "description": "Utilizing the Next.js framework to build server-side rendered (SSR) and statically generated (SSG) React applications. Next.js offers benefits such as improved performance, SEO-friendliness, and seamless server-side rendering.",
-    "icon": ""
+    "title": "Dynamic Web Applications with React, Redux, and Next.js",
+    "description": "Transforming your vision into reality with React's component-based architecture, Redux's predictable state management, and Next.js's server-side rendering. Crafting interactive and seamless web experiences for your audience.",
+    "icon": "dynamic-web-applications-react-redux-nextjs.png"
   },
   {
     "id": 3,
-    "title": "Redux Implementation.",
-    "description": "Incorporating state management libraries like Redux to handle complex application state and ensure efficient data flow within the React.js and Next.js applications.",
-    "icon": ""
+    "title": "WordPress Website Development and Customization",
+    "description": "Maximizing the potential of WordPress with expert customization using Elementor, Divi, and ADF. Enhancing user experience and conversion rates with WooCommerce integration. Partner with us to transform your WordPress site into a powerful online platform.",
+    "icon": "wordpress-website-development-customization.png"
   },
   {
     "id": 4,
-    "title": "Performance Optimization",
-    "description": "Optimizing the performance of React.js and Next.js applications by implementing best practices, code optimization, and leveraging caching techniques to improve page load times and overall user experience.",
-    "icon": ""
+    "title": "Custom WordPress Theme and Plugin Development",
+    "description": "Elevate your WordPress website with custom-designed themes and plugins that enhance functionality and user experience. Our expert developers ensure seamless integration and optimal performance for your unique requirements.",
+    "icon": "custom-wordpress-theme-plugin-development.png"
   },
   {
     "id": 5,
-    "title": "Deployment and Hosting",
-    "description": "Assisting with the deployment and hosting of React.js and Next.js applications, ensuring they are accessible to users worldwide.",
-    "icon": ""
+    "title": "Node.js API Development Services",
+    "description": "Build powerful APIs with Node.js and Express.js seamlessly integrated with MongoDB, MySQL, or PostgreSQL databases. Our experienced developers deliver scalable and efficient solutions tailored to your specific business needs.",
+    "icon": "nodejs-api-development-services.png"
   },
   {
     "id": 6,
-    "title": "Ongoing Maintenance and Support.",
-    "description": "Providing ongoing maintenance, updates, and technical support to keep React.js and Next.js applications secure, up-to-date, and functioning smoothly.",
-    "icon": ""
+    "title": "PHP Laravel and Blade Application Development Services",
+    "description": "Develop robust web applications with PHP Laravel and Blade, leveraging their powerful features for rapid development and elegant templating. Our team delivers custom solutions that prioritize performance, security, and user experience.",
+    "icon": "php-laravel-blade-application-development-services.png"
   }
 ]
