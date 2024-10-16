@@ -7,12 +7,12 @@ const About = () => {
   return (
     <Section id="about">
       <div className="container px-4 py-20">
-        <div className="grid grid-cols-1 gap-12 md:grid-cols-2">
-          <div className="mb-lg-0 mb-5">
+        <div className="grid grid-cols-1 gap-12 md:grid-cols-2 md:items-center">
+          <div className="mb-lg-0 mx-auto mb-5 md:mx-0">
             <Image
-              src="/images/najmul.jpg"
-              width={650}
-              height={560}
+              src="/images/najmul-islam.jpg"
+              width={500}
+              height={600}
               alt="najmul-islam"
               className="rounded-lg"
             />
