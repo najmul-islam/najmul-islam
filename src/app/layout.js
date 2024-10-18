@@ -1,3 +1,5 @@
+import Header from "@/components/header/Header";
+import Footer from "@/components/footer/Footer";
 import { cn } from "@/lib/utils";
 import { Analytics } from "@vercel/analytics/react";
 import { Inter } from "next/font/google";
@@ -20,18 +22,34 @@ export const metadata = {
     "wordpress theme",
     "wordpress plugin",
   ],
+  robots: {
+    index: true,
+    follow: true,
+    maxSnippet: -1,
+    maxImagePreview: "large",
+    maxVideoPreview: -1,
+  },
   authors: [
     {
       name: "Najmul Islam",
     },
   ],
+  publisher: "Najmul Islam",
+  alternates: {
+    canonical: "https://najmulislam.vercel.app",
+  },
 };
 
 const RootLayout = ({ children }) => {
   return (
     <html lang="en" className="!scroll-smooth">
-      <body className={cn("font-sans antialiased", inter.variable)} id="home">
+      <body
+        className={cn("bg-[#212529] font-sans antialiased", inter.variable)}
+        id="home"
+      >
+        <Header />
         {children}
+        <Footer />
         <Analytics />
       </body>
     </html>
