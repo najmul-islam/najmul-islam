@@ -1,4 +1,4 @@
-## 👋 Hey! Nice to see you.
+## Hello! I’m Najmul Islam, excited to dive into new possibilities with you!
 
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -38,7 +38,7 @@ I'm a MERN stack developer with a passion for building modern, dynamic, and high
 - **MongoDB:** Experienced in working with MongoDB for database management, implementing CRUD operations, schema design, and indexing for performance.
 - **Testing:** Familiar with testing frameworks like Jest and React Testing Library for ensuring code quality.
 - **Version Control:** Adept at using Git for version control, with experience collaborating through platforms like GitHub or GitLab.
-- 
+  
 ### Professional Traits:
 - **Problem Solver:** I enjoy tackling complex challenges and finding effective solutions across the full stack, from frontend interfaces to backend logic.
 - **Team Player:** I thrive in collaborative environments, working closely with designers, frontend developers, backend engineers, and stakeholders to deliver cohesive solutions.
@@ -54,18 +54,12 @@ I'm a MERN stack developer with a passion for building modern, dynamic, and high
 - Collaborated with UX/UI designers to translate design mockups and wireframes into interactive, visually appealing frontend components with pixel-perfect precision.
 - As a **MERN stack developer**, I am equipped to contribute to innovative projects by delivering full-stack solutions that meet user needs and business objectives, ensuring scalability and performance across the entire application.
 
-If you have any specific projects or opportunities where my skills can be of value, feel free to reach out. I am passionate about full-stack development and excited to contribute to impactful projects that drive innovation and deliver exceptional user experiences.
-
-![Najmul Islam's Stats](https://github-readme-stats.vercel.app/api?username=najmul-islam&theme=darcula&show_icons=true&hide_border=true&count_private=true)
-
-![Najmul Islam's Streak](https://github-readme-streak-stats.herokuapp.com/?user=najmul-islam&theme=darcula&hide_border=true)
-
-![Najmul Islam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=najmul-islam&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+>If you have any specific projects or opportunities where my skills can be of value, feel free to reach out. I am passionate about full-stack development and excited to contribute to impactful projects that drive innovation and deliver exceptional user experiences.
 
 ### Get in Touch
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/najmulislam519/) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/najmulislam519)
+[![X](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/najmulislam519)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/najmulislam519)
 <!---
 najmul-islam/najmul-islam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
