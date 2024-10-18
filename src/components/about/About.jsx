@@ -39,7 +39,7 @@ const About = () => {
             <div className="flex gap-3">
               <Link
                 className="rounded-full bg-[#bac964] px-6 py-2 font-normal tracking-wider text-white hover:bg-[#b2c251]"
-                href="#contact"
+                href="/contact"
               >
                 HIRE ME
               </Link>

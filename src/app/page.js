@@ -1,24 +1,31 @@
-import About from "@/components/about/About";
-import Contact from "@/components/contact/Contact";
-import Footer from "@/components/footer/Footer";
-import Header from "@/components/header/Header";
 import Hero from "@/components/header/Hero";
 import Portfolio from "@/components/portfolio/Portfolio";
 import Resume from "@/components/resume/Resume";
+import About from "@/components/about/About";
 import Service from "@/components/service/Service";
+import Contact from "@/components/contact/Contact";
+
+export const metadata = {
+  title: "Najmul Islam | Home",
+  description:
+    "Welcome to Najmul Islam's personal website, showcasing modern web development projects and services.",
+  keywords: ["web development", "portfolio", "reactjs", "nextjs"],
+  robots: { index: true, follow: true },
+  authors: [{ name: "Najmul Islam" }],
+  publisher: "Najmul Islam",
+  alternates: { canonical: "https://najmulislam.vercel.app" },
+};
 
 const HomePage = () => {
   return (
-    <div className="bg-[#212529]">
-      <Header />
+    <>
       <Hero />
       <Portfolio />
       <Resume />
       <About />
       <Service />
       <Contact />
-      <Footer />
-    </div>
+    </>
   );
 };
 export default HomePage;
