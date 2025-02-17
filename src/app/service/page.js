@@ -8,7 +8,7 @@ export const metadata = {
   robots: { index: true, follow: true },
   authors: [{ name: "Najmul Islam" }],
   publisher: "Najmul Islam",
-  alternates: { canonical: "https://najmulislam.vercel.app/services" },
+  alternates: { canonical: "https://najmulislam.me/service" },
 };
 
 const ServicePage = () => {

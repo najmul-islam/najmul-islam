@@ -13,6 +13,7 @@ export const metadata = {
   keywords: [
     "reactjs",
     "nextjs",
+    "vuejs",
     "nodejs",
     "mongodb",
     "wordpress",
@@ -36,7 +37,27 @@ export const metadata = {
   ],
   publisher: "Najmul Islam",
   alternates: {
-    canonical: "https://najmulislam.vercel.app",
+    canonical: "https://najmulislam.me",
+  },
+  openGraph: {
+    title: "Najmul Islam",
+    description: "Your Partner in Modern Web Development",
+    url: "https://najmulislam.me",
+    type: "website",
+    site_name: "Najmul Islam",
+    images: [
+      {
+        url: "https://najmulislam.me/images/opengraph-image.png",
+        width: 1200,
+        height: 630,
+        alt: "Najmul Islam",
+      },
+    ],
+  },
+  twitter: {
+    handle: "@najmulislam",
+    site: "@najmulislam",
+    cardType: "summary_large_image",
   },
 };
 

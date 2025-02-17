@@ -1,22 +1,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://najmul-islam.vercel.app</loc>
+    <loc>https://najmulislam.me</loc>
     <priority>1.00</priority>
   </url>
   <url>
-    <loc>https://najmul-islam.vercel.app/portfolio</loc>
+    <loc>https://najmulislam.me/portfolio</loc>
     <priority>9.00</priority>
   </url><url>
-    <loc>https://najmul-islam.vercel.app/resume</loc>
+    <loc>https://najmulislam.me/resume</loc>
     <priority>9.00</priority>
   </url><url>
-    <loc>https://najmul-islam.vercel.app/about</loc>
+    <loc>https://najmulislam.me/about</loc>
     <priority>9.00</priority>
   </url><url>
-    <loc>https://najmul-islam.vercel.app/service</loc>
+    <loc>https://najmulislam.me/service</loc>
     <priority>9.00</priority>
   </url><url>
-    <loc>https://najmul-islam.vercel.app/contact</loc>
+    <loc>https://najmulislam.me/contact</loc>
     <priority>9.00</priority>
   </url>
 </urlset>

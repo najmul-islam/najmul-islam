@@ -8,7 +8,7 @@ export const metadata = {
   robots: { index: true, follow: true },
   authors: [{ name: "Najmul Islam" }],
   publisher: "Najmul Islam",
-  alternates: { canonical: "https://najmulislam.vercel.app/resume" },
+  alternates: { canonical: "https://najmulislam.me/resume" },
 };
 
 const ResumePage = () => {
