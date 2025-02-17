@@ -50,7 +50,7 @@ export const metadata = {
         url: "https://najmulislam.me/images/opengraph-image.png",
         width: 1200,
         height: 630,
-        alt: "Najmul Islam",
+        alt: "Najmul Islam, web developer specializing in modern web development technologies.",
       },
     ],
   },
