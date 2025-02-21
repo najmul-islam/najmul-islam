@@ -1,9 +1,16 @@
 [
   {
     "id": 1,
-    "company": "www.m4yours.com",
+    "company": "Themeshaperbd",
+    "description": "Worked as a WordPress Developer, creating responsive websites and integrating web, mobile, cloud, and branding solutions.",
+    "position": "Wordpress Developer",
+    "year": "March 2020 - July 2021"
+  },
+  {
+    "id": 2,
+    "company": "m4yours",
     "description": "Web, Mobile, Cloud, Branding, Digital Marketing and business solution.",
     "position": "Frontend Developer (React & Next.js)",
-    "year": "2025 - Running"
+    "year": "January 2025 - Running"
   }
 ]

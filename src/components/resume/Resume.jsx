@@ -24,9 +24,11 @@ const Resume = () => {
           {experiences.length !== 0 && (
             <div className="py-4">
               <h4 className="mb-3 text-2xl text-white">Experience</h4>
-              {experiences.map((experience) => (
-                <ExperienceCard key={experience.id} experience={experience} />
-              ))}
+              {experiences
+                .sort((a, b) => b.id - a.id)
+                .map((experience) => (
+                  <ExperienceCard key={experience.id} experience={experience} />
+                ))}
             </div>
           )}
         </div>
