@@ -6,16 +6,20 @@
   <url>
     <loc>https://najmulislam.me/portfolio</loc>
     <priority>9.00</priority>
-  </url><url>
+  </url>
+  <url>
     <loc>https://najmulislam.me/resume</loc>
     <priority>9.00</priority>
-  </url><url>
+  </url>
+  <url>
     <loc>https://najmulislam.me/about</loc>
     <priority>9.00</priority>
-  </url><url>
+  </url>
+  <url>
     <loc>https://najmulislam.me/service</loc>
     <priority>9.00</priority>
-  </url><url>
+  </url>
+  <url>
     <loc>https://najmulislam.me/contact</loc>
     <priority>9.00</priority>
   </url>
