@@ -69,7 +69,7 @@ const RootLayout = ({ children }) => {
         id="home"
       >
         <Header />
-        {children}
+        <main>{children}</main>
         <Footer />
         <Analytics />
       </body>
