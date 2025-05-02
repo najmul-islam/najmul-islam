@@ -8,7 +8,7 @@ const Resume = ({ educations, experiences }) => {
     <Section id="resume">
       <Heading lightText="My" boldText="Resume" />
 
-      <div className="container px-4">
+      <div>
         <div className="grid grid-cols-1 gap-5 md:grid-cols-2">
           {/* education */}
           <div className="py-4">

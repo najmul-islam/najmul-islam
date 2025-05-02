@@ -6,7 +6,7 @@ import Section from "../ui/section";
 const About = () => {
   return (
     <Section id="about">
-      <div className="container px-4 py-20">
+      <div className="py-10 sm:py-20">
         <div className="grid grid-cols-1 gap-12 md:grid-cols-2 md:items-center">
           <div className="mb-lg-0 mx-auto mb-5 md:mx-0">
             <Image
@@ -36,15 +36,15 @@ const About = () => {
               for continuous learning.
             </p>
 
-            <div className="flex gap-3">
+            <div className="flex flex-col gap-3 sm:flex-row">
               <Link
-                className="rounded-full bg-[#bac964] px-6 py-2 font-normal tracking-wider text-white hover:bg-[#b2c251]"
+                className="text-nowrap rounded-full bg-[#bac964] px-6 py-2 text-center text-sm font-normal tracking-wider text-white hover:bg-[#b2c251] md:text-base"
                 href="/contact"
               >
                 HIRE ME
               </Link>
               <Link
-                className="rounded-full bg-[#6c757d] px-6 py-2 font-normal tracking-wider text-white hover:bg-[#565e64]"
+                className="text-nowrap rounded-full bg-[#6c757d] px-6 py-2 text-center text-sm font-normal tracking-wider text-white hover:bg-[#565e64] md:text-base"
                 href="/images/najmul-islam-cv.pdf"
                 download="najmul-islam-cv"
                 target="_blank"

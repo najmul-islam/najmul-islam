@@ -13,16 +13,11 @@ import {
 
 const Sidebar = () => {
   return (
-    <Sheet className="w-[16rem] outline-none md:hidden">
-      <SheetTrigger
-        asChild
-        className="cursor-pointer md:hidden"
-        variant="outline"
-        size="icon"
-      >
+    <Sheet className="w-[16rem] md:hidden">
+      <SheetTrigger asChild className="cursor-pointer md:hidden" size="icon">
         <HiBars3BottomRight className="size-6" />
       </SheetTrigger>
-      <SheetContent className="w-[250px] p-0">
+      <SheetContent className="w-[250px] p-0 outline-0 ">
         <SheetHeader className="flex h-[60px] items-center border-b p-0 px-3">
           <Link href="/" aria-label="home">
             <span className="font-bold">Najmul</span> Islam

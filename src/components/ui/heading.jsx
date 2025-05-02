@@ -4,7 +4,7 @@ const Heading = ({ lightText, boldText, className, ...props }) => {
   return (
     <h1
       className={cn(
-        "pb-8 text-center text-2xl tracking-wide text-white md:text-4xl",
+        "pb-6 text-center text-2xl tracking-wide text-white md:pb-8 md:text-4xl",
         className,
       )}
       {...props}

@@ -11,7 +11,7 @@ const MouseButton = () => {
       height="20"
       alt="mouse-down"
       onClick={() => router.push("#portfolio")}
-      className="absolute bottom-9 left-1/2 right-1/2 z-30 hidden cursor-pointer md:flex"
+      className="absolute bottom-9 left-1/2 right-1/2 z-30 hidden h-[20px] w-[30px] cursor-pointer md:flex"
     />
   );
 };

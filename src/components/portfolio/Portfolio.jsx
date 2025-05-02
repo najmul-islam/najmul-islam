@@ -6,7 +6,7 @@ const Portfolio = ({ projects }) => {
   return (
     <Section id="portfolio">
       <Heading lightText="Featured" boldText="Portfolio" />
-      <div className="grid gap-5 py-6 sm:grid-cols-2 md:grid-cols-3">
+      <div className="grid grid-cols-1 gap-6 py-6 sm:grid-cols-2 md:grid-cols-3">
         {projects?.map((project) => (
           <PortfolioCard key={project.id} project={project} />
         ))}

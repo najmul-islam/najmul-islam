@@ -87,11 +87,18 @@ const Contact = () => {
             />
 
             <input
-              type="number"
+              type="tel"
+              inputMode="tel"
+              pattern="[\d\s+]*"
               placeholder="Your Phone"
               name="number"
               value={number}
-              onChange={(e) => setNumber(e.target.value)}
+              onChange={(e) => {
+                const value = e.target.value;
+                if (/^[+\d\s]*$/.test(value)) {
+                  setNumber(value);
+                }
+              }}
               className="rounded bg-[#333333] px-[16px] py-[10px] text-white shadow-lg outline-none placeholder:text-[#ffffff66] focus:bg-[#404040] active:bg-[#404040]"
             />
 

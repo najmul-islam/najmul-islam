@@ -9,7 +9,7 @@ const PortfolioCard = ({ project }) => {
         src={`/projects/${thumbnail}`}
         width={400}
         height={400}
-        className="rounded"
+        className="w-full rounded"
         alt={name}
       />
       <h5 className="mt-3 text-2xl">{name}</h5>

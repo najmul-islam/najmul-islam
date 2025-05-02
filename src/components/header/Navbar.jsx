@@ -2,7 +2,7 @@ import NavLink from "./NavLink";
 
 const Navbar = () => {
   return (
-    <ul className="hidden space-x-5 md:flex">
+    <ul className="hidden gap-x-5 md:flex">
       <NavLink href="/">Home</NavLink>
       <NavLink href="/portfolio">Portfolio</NavLink>
       <NavLink href="/resume">Resume</NavLink>
