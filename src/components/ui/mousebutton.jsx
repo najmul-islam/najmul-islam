@@ -8,10 +8,10 @@ const MouseButton = () => {
     <Image
       src="/images/mouse-down.gif"
       width="30"
-      height="20"
+      height="55"
       alt="mouse-down"
       onClick={() => router.push("#portfolio")}
-      className="absolute bottom-9 left-1/2 right-1/2 z-30 hidden cursor-pointer md:flex"
+      className="absolute bottom-9 left-1/2 right-1/2 z-30 hidden h-[55px] w-[30px] cursor-pointer md:flex"
     />
   );
 };
