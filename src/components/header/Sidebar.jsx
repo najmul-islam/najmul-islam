@@ -13,7 +13,7 @@ import {
 
 const Sidebar = () => {
   return (
-    <Sheet className="w-[16rem] md:hidden">
+    <Sheet className="w-[16rem] outline-none md:hidden">
       <SheetTrigger
         asChild
         className="cursor-pointer md:hidden"

@@ -1,20 +1,34 @@
 [
   {
     "id": "1",
+    "course": "Information and Communication Technology (ICT)",
+    "description": "Gained foundational knowledge in computer systems, programming, and digital communication technologies.",
+    "academy": "Chittagong College",
+    "year": "2022 - 2024"
+  },
+  {
+    "id": "2",
+    "course": "Master of Arts (MA)",
+    "description": "Pursued advanced studies in literature and humanities, deepening research and critical analysis skills.",
+    "academy": "Chittagong College",
+    "year": "2022 - 2024"
+  },
+  {
+    "id": "3",
     "course": "Bachelor of Arts (BA)",
     "description": "Studied literature and humanities, developing strong analytical and communication skills.",
     "academy": "Al-Haj Abdul Hoque Chowdhury Degree College",
     "year": "2017 - 2022"
   },
   {
-    "id": "2",
+    "id": "4",
     "course": "Higher Secondary Certificate (HSC)",
     "description": "Focused on advanced studies in general and Islamic education, enhancing critical thinking.",
     "academy": "Ramgarh Ganiatul Ulum Alim Madrasah",
     "year": "2014 - 2016"
   },
   {
-    "id": "3",
+    "id": "5",
     "course": "Secondary School Certificate (SSC)",
     "description": "Built a solid foundation in core subjects with an emphasis on Islamic studies.",
     "academy": "Bagan Bazar Farukia Dakhil Madrasah",
