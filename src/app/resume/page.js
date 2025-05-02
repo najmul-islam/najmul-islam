@@ -1,3 +1,5 @@
+import educations from "@/data/educations.json";
+import experiences from "@/data/experiences.json";
 import Resume from "@/components/resume/Resume";
 
 export const metadata = {
@@ -12,6 +14,6 @@ export const metadata = {
 };
 
 const ResumePage = () => {
-  return <Resume />;
+  return <Resume educations={educations} experiences={experiences} />;
 };
 export default ResumePage;

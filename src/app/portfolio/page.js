@@ -1,3 +1,4 @@
+import projects from "@/data/projects.json";
 import Portfolio from "@/components/portfolio/Portfolio";
 
 export const metadata = {
@@ -12,6 +13,6 @@ export const metadata = {
 };
 
 const PortfolioPage = () => {
-  return <Portfolio />;
+  return <Portfolio projects={projects} />;
 };
 export default PortfolioPage;

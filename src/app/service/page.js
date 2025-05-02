@@ -1,3 +1,4 @@
+import services from "@/data/services.json";
 import Service from "@/components/service/Service";
 
 export const metadata = {
@@ -12,6 +13,6 @@ export const metadata = {
 };
 
 const ServicePage = () => {
-  return <Service />;
+  return <Service services={services} />;
 };
 export default ServicePage;

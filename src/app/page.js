@@ -1,3 +1,7 @@
+import projects from "@/data/projects.json";
+import educations from "@/data/educations.json";
+import experiences from "@/data/experiences.json";
+import services from "@/data/services.json";
 import Hero from "@/components/header/Hero";
 import Portfolio from "@/components/portfolio/Portfolio";
 import Resume from "@/components/resume/Resume";
@@ -9,10 +13,10 @@ const HomePage = () => {
   return (
     <>
       <Hero />
-      <Portfolio />
-      <Resume />
+      <Portfolio projects={projects} />
+      <Resume educations={educations} experiences={experiences} />
       <About />
-      <Service />
+      <Service services={services} />
       <Contact />
     </>
   );
