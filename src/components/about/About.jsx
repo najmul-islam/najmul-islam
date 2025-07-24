@@ -20,20 +20,26 @@ const About = () => {
 
           <div className="flex flex-col items-start justify-center gap-6">
             <Heading lightText="About" boldText="Me" />
-            <p className="text-[18px] font-light text-[#ffffff66]">
-              I am a self-taught passionate Web Application Developer
-              specializing in <span className="font-semibold">React.js</span>.
-              As a React developer, I can convert a Figma design to a perfectly
-              responsive website template and give them life using ReactJs. I am
-              very comfortable with the{" "}
-              <span className="font-semibold">Next.js</span> framework and have
-              sound knowledge in both client and server-side rendering.
+            <p className="text-[18px] text-[#ffffff70]">
+              Web development enthusiast skilled in <strong>PHP</strong> and{" "}
+              <strong>JavaScript</strong>, with growing experience in both
+              backend and frontend technologies. On the backend, gaining
+              practical knowledge using <strong>Laravel</strong> and{" "}
+              <strong>Express.js</strong> to build APIs and manage server logic.
+              On the frontend, working with <strong>React</strong> and{" "}
+              <strong>Vue</strong> to create responsive user interfaces.
+              Comfortable with databases like <strong>MySQL</strong>,{" "}
+              <strong>PostgreSQL</strong>, and <strong>MongoDB</strong>.
+              Currently exploring <strong>WordPress</strong> theme and plugin
+              development. Confident using <strong>Git</strong> and{" "}
+              <strong>GitHub</strong> for version control, and passionate about
+              teamwork, clean code, and continuous learning.
             </p>
             <p className="text-[15px] font-light text-[#ffffff66]">
-              In addition to my technical expertise, I am dedicated,
-              detail-oriented, and committed to delivering high-quality web
-              applications. With a strong focus on problem-solving and a passion
-              for continuous learning.
+              Beyond technical skills, I bring a strong sense of dedication,
+              attention to detail, and a commitment to building high-quality web
+              applications. I thrive on solving problems and continuously
+              improving through learning and real-world experience.
             </p>
 
             <div className="flex flex-col gap-3 sm:flex-row">
