@@ -140,7 +140,7 @@ const Contact = () => {
             <p className="mb-4 text-[#ffffff66]">+88 01826 512120</p>
 
             <h6 className="uppercase text-[#2c3e50]">Current Address</h6>
-            <p className="mb-4 text-[#ffffff66]">Feni, Bangladesh.</p>
+            <p className="mb-4 text-[#ffffff66]">Dhaka, Bangladesh.</p>
           </div>
         </div>
       </div>
