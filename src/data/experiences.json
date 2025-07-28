@@ -8,6 +8,13 @@
   },
   {
     "id": 2,
+    "company": "Freelance Laravel Developer",
+    "description": "Worked on various client projects developing RESTful APIs, admin dashboards, and full-stack web applications using Laravel. Integrated third-party services, implemented authentication systems, and ensured database optimization.",
+    "position": "Full Stack Laravel Developer",
+    "year": "February 2022 – December 2024"
+  },
+  {
+    "id": 3,
     "company": "m4yours",
     "description": "Web, Mobile, Cloud, Branding, Digital Marketing and business solution.",
     "position": "Frontend Developer (React & Next.js)",

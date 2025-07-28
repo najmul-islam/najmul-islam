@@ -10,10 +10,11 @@ import Service from "@/components/service/Service";
 import Contact from "@/components/contact/Contact";
 
 const HomePage = () => {
+  const feturedProjects = projects?.split(0, 5);
   return (
     <>
       <Hero />
-      <Portfolio projects={projects} />
+      <Portfolio projects={feturedProjects} />
       <Resume educations={educations} experiences={experiences} />
       <About />
       <Service services={services} />
