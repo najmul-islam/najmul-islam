@@ -4,7 +4,8 @@
     "name": "subscenebd",
     "thumbnail": "subscenebd.png",
     "link": "https://subscenebd.vercel.app/",
-    "repository": "https://github.com/najmul-islam/subscenebd"
+    "repository": "https://github.com/najmul-islam/subscenebd",
+    "categories": ["nodejs", "express", "reactjs", "mongodb", "web-socket"]
   },
   {
     "id": 2,

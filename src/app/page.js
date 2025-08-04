@@ -10,7 +10,7 @@ import Service from "@/components/service/Service";
 import Contact from "@/components/contact/Contact";
 
 const HomePage = () => {
-  const feturedProjects = projects?.slice(0, 5);
+  const feturedProjects = projects?.slice(0, 6);
   return (
     <>
       <Hero />
